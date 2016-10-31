@@ -1,12 +1,14 @@
 <?php
 
-$VERSION = "1";
+$VERSION = "3";
 
 $DATOS = array(
 
     "version"   =>  $VERSION,
 
-    "entorno" => getenv("VERSION_ENTORNO")
+    "entorno" => getenv("VERSION_ENTORNO"),
+
+    "entorno_plus" => getenv("VERSION_ENTORNO_PLUS")
 
 );
 
