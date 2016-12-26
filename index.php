@@ -3,6 +3,7 @@
 $VERSION = "1";
 
 $DATOS = array(
+    "name" => "Doppleman",
 
     "version"   =>  $VERSION,
 
