@@ -1,6 +1,6 @@
 <?php
 
-$VERSION = "1";
+$VERSION = "1.2";
 
 $DATOS = array(
     "name" => "Doppleman",
